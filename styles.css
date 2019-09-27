@@ -41,8 +41,8 @@ ul li a:hover {
 #welcomebox {
   background-color: #FFDE7A;
   padding: 12.5%;
-  text-align: center;
-  background-image: url(homebackground.jpg);
+  text-align: left;
+  background-image: url(homebackgroundcropped.jpg);
 }
 
 #missionstate {
