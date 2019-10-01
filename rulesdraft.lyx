@@ -1,0 +1,446 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Pickleball is a cross between tennis, badminton, and ping-pong.
+ It is played with a thick plastic ball, wood or plastic paddles, and a
+ low net.
+\end_layout
+
+\begin_layout Section*
+Mechanics
+\end_layout
+
+\begin_layout Standard
+Like most racquet sports, pickleball is all about using your paddle to keep
+ the ball moving back and forth in a controlled sequence.
+ The ball can only bounce once on each side of the court.
+ Under certain circumstances, you can also 
+\emph on
+volley, 
+\emph default
+hitting the ball before it bounces on your side of the court.
+\end_layout
+
+\begin_layout Standard
+When a player breaks the sequence, such as by hitting the ball into the
+ net, letting it bounce twice in a row, or sending it out of bounds, he/she
+ has committed a 
+\emph on
+fault 
+\emph default
+(also called an 
+\emph on
+error.
+\emph default
+) The time from when the ball is 
+\emph on
+served
+\emph default
+ (set in motion) to the time a fault is committed is called a 
+\emph on
+rally.
+
+\emph default
+ If you fault, either the other team will gain points or you/your team will
+ lose the opportunity to serve.
+\end_layout
+
+\begin_layout Section*
+Serving
+\end_layout
+
+\begin_layout Standard
+All serves must be underhand, and from behind the baseline with at least
+ one foot.
+\end_layout
+
+\begin_layout Standard
+Serves must be cross-court diagonally and land within the appropriate 
+\emph on
+service box
+\emph default
+.
+ The baseline, sidelines, and center line are considered 
+\emph on
+in
+\emph default
+.
+ The kitchen line is considered 
+\emph on
+out
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+You only have one attempt per rally to make a successful serve, unless there
+ is a 
+\emph on
+let
+\emph default
+.
+ A let is when the ball touches the net on the serve and still lands in
+ the correct service box.
+ In this case, the server must try again.
+\end_layout
+
+\begin_layout Subsection*
+The singles serving sequence
+\end_layout
+
+\begin_layout Standard
+In singles, the serving player will serve from the right court when their
+ score is even, and from the left court when their score is odd.
+\end_layout
+
+\begin_layout Subsection*
+The doubles serving sequence
+\end_layout
+
+\begin_layout Standard
+The serving sequence ensures each player on a doubles court has a fair opportuni
+ty to serve from both halves of the court.
+\end_layout
+
+\begin_layout Itemize
+Once a team gains possession of the ball, the first serve is made by the
+ player on the right.
+ This is Server 1.
+ They must serve to the opposing team's right court.
+\end_layout
+
+\begin_layout Itemize
+If the receiving team faults, the serving teammates switch sides of the
+ court.
+ Server 1 must now send the ball to the opposing team's left court.
+\end_layout
+
+\begin_layout Itemize
+Server 1 will continue to serve until he/she commits a fault.
+
+\emph on
+ 
+\emph default
+In this case, their teammate, Server 2, gets the ball.
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Second serve
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph default
+may be announced
+\emph on
+.
+
+\emph default
+ The serving teammates do not switch sides, and Server 2 must send the ball
+ into the service box diagonal from their current position on the court.
+\end_layout
+
+\begin_layout Itemize
+Once Server 2 faults, the ball goes to the opposing team to serve.
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Side out
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph default
+may be announced.
+ The sequence repeats.
+\end_layout
+
+\begin_layout Subsection*
+At the start of a doubles game
+\end_layout
+
+\begin_layout Standard
+At the beginning of a doubles game, only the right player on the serving
+ team has the opportunity to serve.
+ The starting score is always 
+\begin_inset Quotes eld
+\end_inset
+
+0-0-2.
+\begin_inset Quotes erd
+\end_inset
+
+ Variations such as 
+\begin_inset Quotes eld
+\end_inset
+
+0-0-start
+\begin_inset Quotes erd
+\end_inset
+
+ mean the same thing, but these announcements are not approved for official
+ USAPA play to simplify things for the referees.
+\end_layout
+
+\begin_layout Standard
+Once the right player faults, this is a side-out and the serve goes to the
+ right player on the opposing team.
+\end_layout
+
+\begin_layout Section*
+The second-bounce rule
+\end_layout
+
+\begin_layout Standard
+When the ball is served, the receiving team must let it bounce in their
+ court before returning the serve.
+ After the return, the serving team must then let the bounce in their court.
+ Only after the ball has bounced once in each court is it legal to volley.
+\end_layout
+
+\begin_layout Section*
+The kitchen
+\end_layout
+
+\begin_layout Standard
+The kitchen is sometimes called the 
+\emph on
+non-volley zone.
+
+\emph default
+ It is the space within 7 feet on both sides of the net.
+ You cannot volley within the kitchen for any reason; this is a fault.
+\end_layout
+
+\begin_layout Standard
+USAPA has an exhaustive list of what constitutes a kitchen fault, but it
+ can be boiled down to five principles:
+\end_layout
+
+\begin_layout Enumerate
+If, when volleying, you have even one foot in the kitchen and/or on the
+ kitchen line, it's a fault.
+\end_layout
+
+\begin_layout Enumerate
+If momentum carries you or anything you are wearing/carrying into the kitchen
+ while volleying, it's a fault.
+\end_layout
+
+\begin_layout Enumerate
+If, right after volleying, you touch the kitchen, it's a fault, even if
+ the ball is declared dead before you touch the kitchen.
+\end_layout
+
+\begin_layout Enumerate
+You can stand in the kitchen at any time, so long as you're not volleying.
+\end_layout
+
+\begin_layout Enumerate
+The kitchen is a two-dimensional rectangle, not a three-dimensional box.
+ You can volley if the ball is 
+\emph on
+over
+\emph default
+ the kitchen, so long as your feet are not in the kitchen.
+\end_layout
+
+\begin_layout Section*
+Line calls
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Line calls 
+\emph default
+are determinations regarding whether the ball is in or out of bounds.
+\end_layout
+
+\begin_layout Standard
+When a pickleball bounces, only a small fraction of its surface area makes
+ contact with the ground.
+ As such, line calls in pickleball must be incredibly precise.
+ If in doubt, the ball is in.
+\end_layout
+
+\begin_layout Itemize
+If the ball lands on a line, it's in.
+\end_layout
+
+\begin_layout Itemize
+If the ball hits the kitchen line on a serve, it's out and a service fault.
+\end_layout
+
+\begin_layout Standard
+There are a few important rules of etiquette surrounding line calls:
+\end_layout
+
+\begin_layout Itemize
+It's the responsibility of each team to make line calls on their respective
+ sides of the court–not the other team, and not spectators.
+\end_layout
+
+\begin_layout Itemize
+If a line call is questionable, give your opponent the benefit of the doubt.
+\end_layout
+
+\begin_layout Itemize
+Line calls must be made immediately once the ball hits the court.
+ Otherwise, the ball will be considered in.
+\end_layout
+
+\begin_layout Itemize
+For clarity, make your line call by voice and hand gesture.
+\end_layout
+
+\begin_layout Section*
+Scoring
+\end_layout
+
+\begin_layout Standard
+A typical pickleball game is played to 11 points and won by two points.
+ A score of 10-10, for example, indicates the beginning of overtime; in
+ this case, 12 is the winning score.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Only the serving team can score points.
+ 
+\series default
+Scores are announced before each serve; the serving team's score first,
+ followed by the receiving team.
+ In doubles, a third number is included in the score (see below.)
+\end_layout
+
+\begin_layout Subsection*
+The third number
+\end_layout
+
+\begin_layout Standard
+In doubles, the 
+\emph on
+third number
+\emph default
+ identifies which teammate is serving, and can be either 1 or 2.
+ Refer to 
+\begin_inset Quotes eld
+\end_inset
+
+The doubles serving sequence
+\begin_inset Quotes erd
+\end_inset
+
+ above for more information.
+\end_layout
+
+\begin_layout Subsection*
+Starting a doubles game
+\end_layout
+
+\begin_layout Standard
+To comply with the doubles serving sequence, the very first serve of a doubles
+ game is always scored 
+\begin_inset Quotes eld
+\end_inset
+
+0-0-2.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+2
+\begin_inset Quotes erd
+\end_inset
+
+ in this case is the player in the right service box.
+\end_layout
+
+\end_body
+\end_document
