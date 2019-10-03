@@ -40,3 +40,17 @@ ul li a:hover {
 meetings h1,h2,h3,p {
 	margin: 0px 100px 0px 100px;
 	}
+
+#rulessummary {
+	text-align: center;
+	padding: 5%;
+	background-color: maroon
+}
+
+#ruleslist li {
+	padding-left:6.5%;
+	padding-right:6.5%;
+	list-style:decimal;
+}
+
+
