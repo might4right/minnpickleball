@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE minutes SYSTEM "scoresandminutes.dtd">
+
+<minutes date="10/25/19">
+ <meetingcomments>
+	 The North Gym was preoccupied with intramural volleyball, so on short notice we used two courts of the Cooke Hall gym. 12 players attended in total. Our utmost apologies if you tried to find us in the North Gym and didn't receive the email in time. We'll make it up to you in the next few weeks!
+ </meetingcomments>
+ <snglgame>
+   <player1 from="Eden Prairie, MN" paddle="Paddletek Bantam" handedness="right" score="14">Andre Espindola</player1>
+   <player2 from="Burnsville, MN" paddle="Onix EVOKE Premier" handedness="left" score="12">Blake Andert</player2>
+   <gamecomments>
+	   Andert had a narrow lead in the first half of the game, with plenty of ground shots ne'er a foot ahead of the baseline. Overtime began with a long rally at the kitchen and an overhead lob by Espindola. It was not a dink, however, but an ernie spike that sealed Andert's fate, 14-12.
+   </gamecomments>
+ </snglgame>
+
+ <dblgame>
+     <startingsrv score="11">
+       <playerleft from="Waconia, MN" paddle="Onix Stryker 4 Graphite Core" handedness="right">Max Peterson</playerleft>
+       <playerright from="Eden Prairie, MN" paddle="Onix Z5 Standard Core" handedness="right">Carter Rislov</playerright>
+     </startingsrv>
+     <startingrec score="8">
+       <playerleft from="Eden Prairie, MN" paddle="Franklin Balanced Plywood Core" handedness="left">Niranjan Sankar</playerleft>
+       <playerright from="Eden Prairie, MN" handedness="right">Arun Balakrishna</playerright>
+     </startingrec>
+	 <gamecomments>
+		 Balakrishna/Sankar played their cards well, with strategically placed serves forcing Peterson, a righty, to hone his backhand. That he eventually did before an unexpected out, switching service to Rislov. His own quick reflexes on the volley handed them the game, 11-8.
+	 </gamecomments>
+ </dblgame>
+
+ <kotc style="singles">
+   <snglschallengers>
+     <challenger from="Eden Prairie, MN" paddle="Paddletek Bantam EXL Standard" handedness="right" finalshort="1" champpts="7">Andre Espindola</challenger>
+     <challenger from="Burnsville, MN" paddle="Onix EVOKE Premier" handedness="left" finalshort="2" champpts="9">Blake Andert</challenger>
+     <challenger from="Waconia, MN" paddle="Onix Stryker 4 Graphite Core" handedness="right" finalshort="0" champpts="3">Max Peterson</challenger>
+     <challenger from="Eden Prairie, MN" paddle="Onix Z5 Standard Core" handedness="right" finalshort="1" champpts="4">Carter Rislov</challenger>
+     <challenger from="Franklin, WI" paddle="Franklin Balanced Plywood Core" handedness="left" finalshort="2" champpts="5">Alexa Moran</challenger>
+     <challenger from="Eden Prairie, MN" handedness="right" finalshort="0" champpts="15">Arun Balakrishna</challenger>
+   </snglschallengers>
+ </kotc>
+</minutes>
