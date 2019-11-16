@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/css/edit/style-pure.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/css/webauthor/profiling.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/css/edit/alternate-map-print-preview-layout-force-media-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/css/webauthor/profiling.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/MPCRules_revised/MPCRules_revised.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Rulebook of the Minnesota Pickleball Club</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Rulebook of the Minnesota Pickleball Club</title>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Standard pickleball"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e14">Standard pickleball</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Mechanics and serving"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e15">Mechanics and serving</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_adl_csl_sjb"><resourceid appid="concept_adl_csl_sjb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Basic mechanics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Like most racquet sports, pickleball is all about using your paddle to keep the ball         moving back and forth in a controlled sequence.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to serve</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Regardless of the kind of pickleball you are playing, there are a few standard         serving rules.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Flow of a singles game</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The singles serving sequence is very much like other racquet sports.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Flow of a doubles game</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In doubles, the flow of the game is fundamental to scoring. A strict serving sequence         ensures each teammate has the opportunity to use both service courts.</shortdesc></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Faults and scoring"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e60">Faults and scoring</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">The two-bounce rule</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A large difference between pickleball and other racquet sports lies in just two         simple bounces.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Kitchen rules</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Pickleball's rules against close volleys are among the most numerous of any racquet         sport.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Making line calls</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A few hard and fast rules can help determine if the ball is in or out.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="standard_scoring"><resourceid appid="standard_scoring" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Traditional scoring</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The traditional mode of pickleball scoring is designed to fit with the flow of the         game.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="rally_scoring"><resourceid appid="rally_scoring" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Rally scoring</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If we're pressed on time, we may switch to rally scoring. Though this changes the         flow of the game, it makes things faster and a bit more suspenseful.</shortdesc></topicmeta></topicref></topichead></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="King of the Court"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e117">King of the Court</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="untitled1"><resourceid appid="untitled1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">King of the Court is an intense drill-style game that can be played singles or         doubles. Your goal is exactly as it sounds: become "king" by remaining on the champion side         of the gym and earning points.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="untitled2"><resourceid appid="untitled2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">How to play</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In a typical match of King, you're likely to start on the "challenger" side. How do         you become a Champion and take one more step toward victory?</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Standard pickleball</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e15" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Mechanics and serving</title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_adl_csl_sjb" oid="concept_adl_csl_sjb">
+    <title class="- topic/title ">Basic mechanics</title>
+    <shortdesc class="- topic/shortdesc ">Like most racquet sports, pickleball is all about using your paddle to keep the ball
+        moving back and forth in a controlled sequence.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The ball can only bounce once on each side of the court before being <i class="+ topic/ph hi-d/i ">returned</i>, or
+            sent to your opponent's side. Under certain circumstances, you can also return the ball
+            before it bounces on your side of the court. This is called a <i class="+ topic/ph hi-d/i ">volley</i>.</p>
+        <p class="- topic/p ">When a player breaks the sequence, such as by hitting the ball into the net, letting it
+            bounce twice in a row, or sending it out of bounds, they have committed a <i class="+ topic/ph hi-d/i ">fault</i>
+            (sometimes called an <i class="+ topic/ph hi-d/i ">error</i>.)</p>
+        <p class="- topic/p ">The time from when the ball is <i class="+ topic/ph hi-d/i ">served</i> (set in motion) to the time a fault is
+            committed is called a <i class="+ topic/ph hi-d/i ">rally</i>. If you fault, either the other team will gain points
+            or you/your team will lose the opportunity to serve.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">How to serve</title>
+    <shortdesc class="- topic/shortdesc ">Regardless of the kind of pickleball you are playing, there are a few standard
+        serving rules.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">All serves must be underhand, and from behind your side's baseline with at least one
+                foot. The baseline marks the very back of the court.</p>
+            <p class="- topic/p ">Serves must be cross-court diagonally. This means that they must land within the
+                service court at the cater-corner of your own.</p>
+            <p class="- topic/p ">The baseline, sidelines, and center line are considered in. The kitchen line is
+                considered out.</p>
+            <p class="- topic/p ">You only have one attempt per rally to make a successful serve, unless there is a
+                    <b class="+ topic/ph hi-d/b ">let</b>. A let is when the ball touches the net on the serve and still lands
+                in the correct service court. If you let, you must try again.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">There are many different methods of serving, but this is the best one for
+                    beginners.</b></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Determine your place in the serving sequence, then announce the current score
+                    of the game. See "The singles serving sequence," "The doubles serving sequence,"
+                    and "Scoring basics" for more details.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Point your entire body in the direction you need to serve. Step slightly
+                    forward with your left foot. This will set you up for a driving "pivot" motion
+                    that will add depth to your serve.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">With your left hand, hold the ball in front of your paddle. Hold the paddle so
+                    the handle is pointing toward your upper body (usually this is a 10:00
+                    position.)</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Let go of the ball with your left hand. At the same time, pivot with your right
+                    foot and drive the paddle forward, keeping your wrist straight.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">Flow of a singles game</title>
+    <shortdesc class="- topic/shortdesc ">The singles serving sequence is very much like other racquet sports.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">In singles, once you receive the ball, your first serve will always be from the right
+                court.</b></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">If you score a point, </b>both you and your opponent will switch to the other service
+            court, and you will be serving along the opposite diagonal.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">If you fault,</b> your opponent gets to serve from their own right service court. When
+            this happens, it is called a <i class="+ topic/ph hi-d/i ">side-out.</i></p>
+        <p class="- topic/p ">The general rule of thumb for singles is that you will serve from the right court when
+            your score is even, and from the left court when your score is odd.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">Flow of a doubles game</title>
+    <shortdesc class="- topic/shortdesc ">In doubles, the flow of the game is fundamental to scoring. A strict serving sequence
+        ensures each teammate has the opportunity to use both service courts.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Once a team gains possession of the ball after a side-out, the new serving teammates
+            receive numbers based on their court position. </p>
+        <p class="- topic/p ">
+            <ul class="- topic/ul " id="unique_4_Connect_42_ul_ygn_mxl_sjb" nd:nd-id="ul_ygn_mxl_sjb">
+                <li class="- topic/li ">The player on the right service court immediately after the side-out is
+                        <i class="+ topic/ph hi-d/i ">One.</i></li>
+                <li class="- topic/li ">The player on the left service court immediately after the side-out is
+                        <i class="+ topic/ph hi-d/i ">Two.</i></li>
+            </ul>
+        </p>
+        <p class="- topic/p ">To begin the next rally, <i class="+ topic/ph hi-d/i ">One</i> serves to the opposing team's right court.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">When <i class="+ topic/ph hi-d/i ">One's</i> team scores a point,</b> the serving teammates switch places with
+            each other. <i class="+ topic/ph hi-d/i ">One</i> must now send the ball to the opposing team's left court.
+                <i class="+ topic/ph hi-d/i ">One</i> will continue to serve and switch places until either they or their
+            teammate fault.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">If <i class="+ topic/ph hi-d/i ">One's</i> team faults,</b>
+            <i class="+ topic/ph hi-d/i ">One</i> will pass the serve to <i class="+ topic/ph hi-d/i ">Two</i>. The teammates do not switch places. </p>
+        <p class="- topic/p ">The sequence now proceeds to <i class="+ topic/ph hi-d/i ">Two</i>. They must serve from their current side of the
+            court.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">When <i class="+ topic/ph hi-d/i ">Two's</i> team scores a point,</b> the serving teammates switch places with
+            each other as before.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">If <i class="+ topic/ph hi-d/i ">Two's</i> team faults,</b> it is a side-out. The serve goes to the other team,
+            and the sequence repeats.</p>
+    </conbody>
+    <concept class="- topic/topic concept/concept " id="unique_5" nd:nd-id="concept_mym_vyl_sjb" oid="concept_mym_vyl_sjb">
+        <title class="- topic/title ">The exception: starting a doubles game</title>
+        <shortdesc class="- topic/shortdesc ">The only exception to the standard doubles flow is at the very start of the
+            game.</shortdesc>
+        <conbody class="- topic/body  concept/conbody ">
+            <p class="- topic/p ">At the beginning of a doubles game, only the right-hand player on the serving team
+                has the opportunity to serve. They are <i class="+ topic/ph hi-d/i ">Two</i>.</p>
+            <p class="- topic/p ">If <i class="+ topic/ph hi-d/i ">Two</i> faults, it is a side-out. The sequence proceeds as normal, with
+                    <i class="+ topic/ph hi-d/i ">One</i> on the other team receiving the ball.</p>
+        </conbody>
+    </concept>
+</concept></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e60" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Faults and scoring</title><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">The two-bounce rule</title>
+    <shortdesc class="- topic/shortdesc ">A large difference between pickleball and other racquet sports lies in just two
+        simple bounces.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">When the ball is served, the receiving team must let it bounce in their court before
+            returning the serve.</p>
+        <p class="- topic/p ">The serving team must then let the ball bounce in their own court.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Only after the ball has bounced once in each court is it legal to volley. Otherwise,
+                it's a fault.</b></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">Kitchen rules</title>
+    <shortdesc class="- topic/shortdesc ">Pickleball's rules against close volleys are among the most numerous of any racquet
+        sport.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The <i class="+ topic/ph hi-d/i ">kitchen</i> is sometimes called the <i class="+ topic/ph hi-d/i ">non-volley zone.</i> It is the space within
+            7 feet on both sides of the net.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">You cannot volley while standing in the kitchen for any reason.</b></p>
+        <p class="- topic/p ">USAPA, the governing body of American pickleball, keeps an exhaustive list of what does
+            and does not constitute a kitchen fault. For sake of simplicity, we boil them down to
+            five rules.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">A kitchen fault IS committed when:</b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_7_Connect_42_ol_ow2_bhm_sjb" nd:nd-id="ol_ow2_bhm_sjb">
+                <li class="- topic/li ">the volleying player has even one foot in the kitchen and/or on the kitchen
+                    line.</li>
+                <li class="- topic/li ">momentum carries the volleying player, or anything they are wearing/carrying,
+                    into the kitchen.</li>
+                <li class="- topic/li ">a player touches the kitchen right after volleying, even if the ball is declared
+                    dead beforehand.</li>
+            </ol>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">A kitchen fault IS NOT committed when:</b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_7_Connect_42_ol_dcm_hhm_sjb" nd:nd-id="ol_dcm_hhm_sjb">
+                <li class="- topic/li ">there is no volley. So long as the ball bounces before you hit it, you can stand
+                    in the kitchen at any time.</li>
+                <li class="- topic/li ">the ball is over the kitchen AND you are not standing in the kitchen. Remember
+                    that the kitchen is a 2D "rectangle," not a 3D "box."</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled">
+    <title class="- topic/title ">Making line calls</title>
+    <shortdesc class="- topic/shortdesc ">A few hard and fast rules can help determine if the ball is in or out.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Line calls</i> are determinations regarding whether the ball is in bounds. A few
+                hard and fast rules can help determine if the ball is in or out of bounds.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Keep your eye on the ball.</b> When a pickleball bounces, only a small
+                    fraction of its surface area makes contact with the ground. As such, line
+                    calling requires a great degree of precision.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Consider the stage of the rally.</b> If the ball hits the kitchen line on
+                    the serve, it is a service fault, even if the ball contacts the net before going
+                    over.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Consider the lines of the court.</b> If the ball lands on an outside line,
+                    it is always considered in.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Consult other players, including the opposing team.</b> A good standard is
+                    that at least two players must have seen where the ball landed within a
+                    reasonable amount of time for it to be considered out.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">What the opponent says usually goes.</b> Out of fairness, if both teammates
+                    on the calling side are in doubt, the ball is considered in.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">If everyone is in doubt, either redo the rally or call the ball in.</b> Both
+                    of these options are ideal. The important thing is that you offer ample courtesy
+                    and the benefit of the doubt to your opponents.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="standard_scoring" oid="standard_scoring">
+    <title class="- topic/title ">Traditional scoring</title>
+    <shortdesc class="- topic/shortdesc ">The traditional mode of pickleball scoring is designed to fit with the flow of the
+        game.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A typical pickleball game is played to 11 points and won by two points. Overtime starts
+            when the score reaches 10-10. It is played by the same rules as normal time.</p>
+        <p class="- topic/p ">Important to pickleball is that <b class="+ topic/ph hi-d/b ">only the serving team can score points.</b></p>
+        <p class="- topic/p ">Scores are announced before each serve as follows.</p>
+        <p class="- topic/p ">
+            <ul class="- topic/ul " id="unique_9_Connect_42_ul_k1z_zjm_sjb" nd:nd-id="ul_k1z_zjm_sjb">
+                <li class="- topic/li ">First, announce the server/serving team's score.</li>
+                <li class="- topic/li ">Next, announce the receiver/receiving team's score.</li>
+                <li class="- topic/li ">If you are playing doubles, a third number is included representing which
+                    teammate is serving. It can be 1 or 2. Refer to <xref class="- topic/xref " href="#unique_10" broken-link="true"/> for more information.</li>
+                <li class="- topic/li ">Remember that the very first serve of a doubles game is always scored 0-0-2. "2"
+                    in this case represents the player in the right service court.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="rally_scoring" oid="rally_scoring">
+    <title class="- topic/title ">Rally scoring</title>
+    <shortdesc class="- topic/shortdesc ">If we're pressed on time, we may switch to rally scoring. Though this changes the
+        flow of the game, it makes things faster and a bit more suspenseful.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ul class="- topic/ul " id="unique_11_Connect_42_ul_gj2_fhr_sjb" nd:nd-id="ul_gj2_fhr_sjb">
+                <li class="- topic/li ">Under rally scoring, any player/team can score points, regardless if they are
+                    serving or receiving.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">If the serving player/team scores a point,</b> you will change positions as
+                    normal according ot the flow of the game. (See <xref class="- topic/xref " href="#unique_12" broken-link="true"/> or <xref class="- topic/xref " href="#unique_10" broken-link="true"/>.)</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">There is no second server in rally scoring.</b> If you or your team loses a
+                    rally, you do not change sides and the other player/team gets the serve.)</li>
+            </ul>
+        </p>
+    </conbody>
+</concept></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e117" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">King of the Court</title><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="untitled1" oid="untitled1">
+    <title class="- topic/title ">Introduction</title>
+    <shortdesc class="- topic/shortdesc ">King of the Court is an intense drill-style game that can be played singles or
+        doubles. Your goal is exactly as it sounds: become "king" by remaining on the champion side
+        of the gym and earning points.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In King, all three courts are used at once, and all players rotate between the courts;
+            meaning you will constantly play rallies. Whether you are a challenger or a champion,
+            you will constantly be facing different opponents with different playing styles. Take
+            the time to observe each champion's strategy and adapt your aim or shot style to match.
+            There is no better time to practice!</p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="untitled2" oid="untitled2">
+    <title class="- topic/title ">How to play</title>
+    <shortdesc class="- topic/shortdesc ">In a typical match of King, you're likely to start on the "challenger" side. How do
+        you become a Champion and take one more step toward victory?</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Important to note is that standard rules, save for some scoring differences, apply to
+                both singles and doubles King.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you're playing doubles, <b class="+ topic/ph hi-d/b ">pick a teammate.</b> Otherwise, simply select
+                    your first champion to play and get in line.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You start each round of King with zero challenger points and zero championship
+                    points. Announce how many challenger points your team has. Once the challenger
+                    indicates they are ready, serve away.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">For each rally you/your team wins</b>, you will earn one challenger
+                    point.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">If you/your team lose the rally</b>, move to a different court and serve as
+                    normal.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You must clearly notify the other team/player (on the champion side) <b class="+ topic/ph hi-d/b ">when
+                        you have two challenger points</b>, even if it's just holding two fingers in
+                    the air. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Once you/your team earns their third challenger point,</b> congrats! You
+                    have become a champion. Switch halves to the champion side of your current
+                    court. <b class="+ topic/ph hi-d/b ">All points you earn on the champion half are championship points
+                    </b>and count toward winning the whole thing!</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">If you/your team fault against someone with two challenger points, the
+                        challenging player/team will become the champion in your place.</b> You will
+                    go back to earning challenger points from zero, but you will not lose any
+                    championship points.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Each player or team is responsible for keeping track of their own championship
+                    points. <b class="+ topic/ph hi-d/b ">The first person to fifteen championship points total must declare
+                        themselves King of the Court; they have won the game.</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></map>

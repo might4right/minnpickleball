@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" xtrc="bookmap:1;3:10" xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/dita/Rulebook.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">MPC Standard Pickleball Rules</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_dxg_ggs_qjb" oid="topic_dxg_ggs_qjb">
+    <title class="- topic/title ">Mechanics of the game</title>
+    <shortdesc class="- topic/shortdesc ">If you're new to racquet sports, you might find this information handy.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Pickleball, like tennis, is all about using your paddle to keep the ball moving back and
+            forth in a controlled sequence. </p>
+        <p class="- topic/p ">The ball can only bounce once on each side of the court before being <i class="+ topic/ph hi-d/i ">returned</i>, or
+            sent to your opponent's side. Under certain circumstances, you can also return the ball
+            without it bouncing. This is called a <i class="+ topic/ph hi-d/i ">volley</i>.</p>
+        <p class="- topic/p ">When a player breaks the sequence, it is a <i class="+ topic/ph hi-d/i ">fault</i>. Common faults include hitting
+            the ball into the net, letting it bounce twice in a row, or sending it out of
+            bounds.</p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_n4q_b3s_qjb" oid="topic_n4q_b3s_qjb">
+    <title class="- topic/title ">Serving basics</title>
+    <shortdesc class="- topic/shortdesc ">These serving guidelines apply to any form of pickleball.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">All serves must be underhand, and from behind the baseline with at least one foot.</p>
+        <p class="- topic/p ">Serves must be cross-court diagonally, landing within the service court at the
+            cater-corner to the server's own. The baselines, sidelines, and center line are
+            considered in. The kitchen line is considered out.</p>
+        <p class="- topic/p ">You have only one attempt per rally to make a successful serve, unless there is a
+                <b class="+ topic/ph hi-d/b ">let</b>. A let is when the ball touches the net on the serve and still lands in
+            the correct service court. In this case, the server must try again.</p>
+        <p class="- topic/p ">If, on a serve, the ball hits the top of the net then lands on the kitchen line on the
+            other side, it is out of bounds and not considered a let.</p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_bjw_jjs_qjb" oid="topic_bjw_jjs_qjb">
+    <title class="- topic/title ">The singles serving sequence</title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">In singles, the serving player will serve from the right court when their score is even,
+            and from the left court when their score is odd. If the serving player faults, the ball
+            goes to their opponent.</p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_cgs_pjs_qjb" oid="topic_cgs_pjs_qjb">
+    <title class="- topic/title ">The doubles serving sequence</title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">In doubles, the serving sequence ensures each player has fair opportunity to serve from
+            both sides of the court.</p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_4_Connect_42_ol_btr_vks_qjb" nd:nd-id="ol_btr_vks_qjb">
+                <li class="- topic/li ">Once a team gains possession of the ball, the first serve is made by the player
+                    on the right. We'll call them "Server 1," and their partner "Server 2." In this
+                    case, Server 1 must serve to the opposing team's right court.</li>
+                <li class="- topic/li ">If the receiving team faults, the serving teammates switch places. Server 1 must
+                    now send the ball to the opposing team's left court.</li>
+                <li class="- topic/li ">Server 1 will continue to serve and switch places until their team faults.
+                        <i class="+ topic/ph hi-d/i ">"Second serve"</i> may be announced. The serving teammates do not switch
+                    sides, and Server 2 must send the ball into the service court diagonal from
+                    their current position.</li>
+                <li class="- topic/li ">Once Server 2 faults, the ball goes to the opposing team to serve. This is
+                    called a <b class="+ topic/ph hi-d/b ">side-out.</b> The sequence repeats from Step 1.</li>
+            </ol>
+        </p>
+        <p class="- topic/p "/>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_yvt_vls_qjb" oid="topic_yvt_vls_qjb">
+    <title class="- topic/title ">Serving at the start of a doubles game</title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">At the beginning of a doubles game, the sequence starts directly with Server 2. The
+            starting score is always <i class="+ topic/ph hi-d/i ">0-0-2.</i> (Some clubs use the unofficial <i class="+ topic/ph hi-d/i ">0-0-start</i>
+            to denote the unique sequence.</p>
+        <p class="- topic/p ">Once the starting team faults, this is a side-out and the serve goes to the right player
+            on the opposing team.</p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_t4f_nns_qjb" oid="topic_t4f_nns_qjb">
+    <title class="- topic/title ">The kitchen</title>
+    <shortdesc class="- topic/shortdesc ">For its simplicity, pickleball has quite a few rules regarding when you can
+        volley.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">The kitchen is sometimes called the <i class="+ topic/ph hi-d/i ">non-volley zone</i>. It is the space within 7 feet
+            on both sides of the net. You cannot volley while standing in the kitchen for any
+            reason; this is a surprisingly common fault.</p>
+        <p class="- topic/p ">USAPA keeps an exhaustive list of what constitutes a kitchen fault, but it can be boiled
+            down to five basic principles.</p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_6_Connect_42_ol_jd4_qns_qjb" nd:nd-id="ol_jd4_qns_qjb">
+                <li class="- topic/li ">If, when volleying, you have even one foot in the kitchen and/or on the kitchen
+                    line, it's a fault.</li>
+                <li class="- topic/li ">If momentum carries you or anything you are wearing or carrying into the kitchen
+                    while volleying, it's a fault.</li>
+                <li class="- topic/li ">If, right after volleying, you touch the kitchen, it's a fault. Even if the ball
+                    is declared dead before you touch the kitchen, it is still a fault.</li>
+                <li class="- topic/li ">You can stand in the kitchen at any time, <i class="+ topic/ph hi-d/i ">so long as you're not
+                        volleying.</i></li>
+                <li class="- topic/li ">The kitchen is a two-dimensional rectangle, not a three-dimensional box. You can
+                    volley if the ball is over the kitchen, so long as your feet are not in the
+                    kitchen.</li>
+            </ol>
+        </p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_nxx_4ms_qjb" oid="topic_nxx_4ms_qjb">
+    <title class="- topic/title ">The two-bounce rule</title>
+    <shortdesc class="- topic/shortdesc ">A key difference between pickleball and other racquet sports lies in a mere two
+        bounces.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">When the ball is served, the receiving team MUST let it bounce in their court before
+            returning the serve.</p>
+        <p class="- topic/p ">After the return, the serving team MUST then let the ball bounce in <i class="+ topic/ph hi-d/i ">their</i> court. </p>
+        <p class="- topic/p ">Only after the ball has bounced once in each court is it legal to volley. Otherwise, it's
+            a fault.</p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_8" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_avz_fv5_qjb" oid="topic_avz_fv5_qjb">
+    <title class="- topic/title ">Making line calls</title>
+    <shortdesc class="- topic/shortdesc ">How does one call an out in pickleball, and when?</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Line calls</i> determine whether the ball is in or out of bounds.</p>
+        <p class="- topic/p ">When a pickleball bounces, only a small fraction of its surface area makes contact with
+            the ground. As such, line calls in pickleball must be incredibly precise.</p>
+        <p class="- topic/p ">Our club standard is that unless the ball is blatantly out of bounds, at least two
+            players must declare the ball out, within a reasonable amount of time, for the line call
+            to result in a fault.</p>
+        <p class="- topic/p ">
+            <ul class="- topic/ul " id="unique_8_Connect_42_ul_cvg_mv5_qjb" nd:nd-id="ul_cvg_mv5_qjb">
+                <li class="- topic/li ">If the ball lands on a line, it's in.</li>
+                <li class="- topic/li ">If the ball lands in the kitchen on the serve, even if on the correct side of
+                    the court, it's a fault.</li>
+                <li class="- topic/li ">If the ball hits the kitchen line on the serve, it's out and a service
+                    fault.</li>
+                <li class="- topic/li ">If you are otherwise in doubt, it's in.</li>
+            </ul>
+        </p>
+    </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_9" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="topic_w5f_ry5_qjb" oid="topic_w5f_ry5_qjb">
+    <title class="- topic/title ">Standard scoring</title>
+    <shortdesc class="- topic/shortdesc ">Play to eleven, win by two. No points for receiving; that is true.</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">A typical pickleball game is played to 11 points and won by two points. </p>
+        <p class="- topic/p ">Overtime starts when the score reaches 10-10. The rules for overtime play are the same as
+            the rules for normal play.</p>
+        <p class="- topic/p ">Important to pickleball is that <b class="+ topic/ph hi-d/b "><i class="+ topic/ph hi-d/i ">only the currently serving team can score
+                    points.</i></b> While this rule can make games a little longer, it also makes
+            for some riveting comebacks and upsets.</p>
+        <p class="- topic/p ">Scores are announced before each serve. The server/serving team's score is announced
+            first, then the receiver/receiving team's. </p>
+        <p class="- topic/p ">In doubles, a third number, either 1 or 2, indicates which teammate is serving. Refer to
+                <xref class="- topic/xref " href="#unique_4" type="topic"><?ditaot usertext?>"The doubles serving sequence"</xref>
+            for more information.</p>
+        <p class="- topic/p ">To comply with the doubles serving sequence, the very first serve of a doubles game is
+            always scored <i class="+ topic/ph hi-d/i ">0-0-2.</i> "2," in this case, is the player standing behind the right
+            service court.</p>
+    </body>
+</topic></bookmap>

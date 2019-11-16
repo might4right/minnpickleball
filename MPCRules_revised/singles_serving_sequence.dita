@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Flow of a singles game</title>
+    <shortdesc>The singles serving sequence is very much like other racquet sports.</shortdesc>
+    <conbody>
+        <p><b>In singles, once you receive the ball, your first serve will always be from the right
+                court.</b></p>
+        <p><b>If you score a point, </b>both you and your opponent will switch to the other service
+            court, and you will be serving along the opposite diagonal.</p>
+        <p><b>If you fault,</b> your opponent gets to serve from their own right service court. When
+            this happens, it is called a <i>side-out.</i></p>
+        <p>The general rule of thumb for singles is that you will serve from the right court when
+            your score is even, and from the left court when your score is odd.</p>
+    </conbody>
+</concept>

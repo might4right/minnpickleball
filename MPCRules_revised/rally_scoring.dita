@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rally_scoring">
+    <title>Rally scoring</title>
+    <shortdesc>If we're pressed on time, we may switch to rally scoring. Though this changes the
+        flow of the game, it makes things faster and a bit more suspenseful.</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_gj2_fhr_sjb">
+                <li>Under rally scoring, any player/team can score points, regardless if they are
+                    serving or receiving.</li>
+                <li><b>If the serving player/team scores a point,</b> you will change positions as
+                    normal according ot the flow of the game. (See <xref
+                        href="Singles%20serving%20sequence.dita"/> or <xref
+                        href="Doubles%20serving%20sequence.dita"/>.)</li>
+                <li><b>There is no second server in rally scoring.</b> If you or your team loses a
+                    rally, you do not change sides and the other player/team gets the serve.)</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

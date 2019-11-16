@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="untitled2">
+    <title>How to play</title>
+    <shortdesc>In a typical match of King, you're likely to start on the "challenger" side. How do
+        you become a Champion and take one more step toward victory?</shortdesc>
+    <taskbody>
+        <context>
+            <p>Important to note is that standard rules, save for some scoring differences, apply to
+                both singles and doubles King.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>If you're playing doubles, <b>pick a teammate.</b> Otherwise, simply select
+                    your first champion to play and get in line.</cmd>
+            </step>
+            <step>
+                <cmd>You start each round of King with zero challenger points and zero championship
+                    points. Announce how many challenger points your team has. Once the challenger
+                    indicates they are ready, serve away.</cmd>
+            </step>
+            <step>
+                <cmd><b>For each rally you/your team wins</b>, you will earn one challenger
+                    point.</cmd>
+            </step>
+            <step>
+                <cmd><b>If you/your team lose the rally</b>, move to a different court and serve as
+                    normal.</cmd>
+            </step>
+            <step>
+                <cmd>You must clearly notify the other team/player (on the champion side) <b>when
+                        you have two challenger points</b>, even if it's just holding two fingers in
+                    the air. </cmd>
+            </step>
+            <step>
+                <cmd><b>Once you/your team earns their third challenger point,</b> congrats! You
+                    have become a champion. Switch halves to the champion side of your current
+                    court. <b>All points you earn on the champion half are championship points
+                    </b>and count toward winning the whole thing!</cmd>
+            </step>
+            <step>
+                <cmd><b>If you/your team fault against someone with two challenger points, the
+                        challenging player/team will become the champion in your place.</b> You will
+                    go back to earning challenger points from zero, but you will not lose any
+                    championship points.</cmd>
+            </step>
+            <step>
+                <cmd>Each player or team is responsible for keeping track of their own championship
+                    points. <b>The first person to fifteen championship points total must declare
+                        themselves King of the Court; they have won the game.</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

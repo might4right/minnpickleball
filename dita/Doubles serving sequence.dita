@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_cgs_pjs_qjb">
+    <title>The doubles serving sequence</title>
+    <body>
+        <p>In doubles, the serving sequence ensures each player has fair opportunity to serve from
+            both sides of the court.</p>
+        <p>
+            <ol id="ol_btr_vks_qjb">
+                <li>Once a team gains possession of the ball, the first serve is made by the player
+                    on the right. We'll call them "Server 1," and their partner "Server 2." In this
+                    case, Server 1 must serve to the opposing team's right court.</li>
+                <li>If the receiving team faults, the serving teammates switch places. Server 1 must
+                    now send the ball to the opposing team's left court.</li>
+                <li>Server 1 will continue to serve and switch places until their team faults.
+                        <i>"Second serve"</i> may be announced. The serving teammates do not switch
+                    sides, and Server 2 must send the ball into the service court diagonal from
+                    their current position.</li>
+                <li>Once Server 2 faults, the ball goes to the opposing team to serve. This is
+                    called a <b>side-out.</b> The sequence repeats from Step 1.</li>
+            </ol>
+        </p>
+        <p/>
+    </body>
+</topic>

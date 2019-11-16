@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_w5f_ry5_qjb">
+    <title>Standard scoring</title>
+    <shortdesc>Play to eleven, win by two. No points for receiving; that is true.</shortdesc>
+    <body>
+        <p>A typical pickleball game is played to 11 points and won by two points. </p>
+        <p>Overtime starts when the score reaches 10-10. The rules for overtime play are the same as
+            the rules for normal play.</p>
+        <p>Important to pickleball is that <b><i>only the currently serving team can score
+                    points.</i></b> While this rule can make games a little longer, it also makes
+            for some riveting comebacks and upsets.</p>
+        <p>Scores are announced before each serve. The server/serving team's score is announced
+            first, then the receiver/receiving team's. </p>
+        <p>In doubles, a third number, either 1 or 2, indicates which teammate is serving. Refer to
+                <xref href="Doubles%20serving%20sequence.dita">"The doubles serving sequence"</xref>
+            for more information.</p>
+        <p>To comply with the doubles serving sequence, the very first serve of a doubles game is
+            always scored <i>0-0-2.</i> "2," in this case, is the player standing behind the right
+            service court.</p>
+    </body>
+</topic>

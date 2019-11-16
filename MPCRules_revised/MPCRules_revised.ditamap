@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Rulebook of the Minnesota Pickleball Club</title>
+    <topichead navtitle="Standard pickleball">
+    <topichead navtitle="Mechanics and serving">
+    <topicref href="mechanics_of_the_game.dita"/>
+    <topicref href="serving_basics.dita"/>
+    <topicref href="singles_serving_sequence.dita"/>
+    <topicref href="doubles_serving_sequence.dita"/>
+    </topichead>
+    <topichead navtitle="Faults and scoring">
+    <topicref href="two_bounce_rule.dita"/>
+    <topicref href="kitchen_rules.dita"/>
+    <topicref href="making_line_calls.dita"/>
+    <topicref href="standard_scoring.dita"/>
+    <topicref href="rally_scoring.dita"/>
+    </topichead>
+    </topichead>
+    <topichead navtitle="King of the Court">
+        <topicref href="intro_to_king.dita"/>
+        <topicref href="how_to_play_king.dita"/>
+    </topichead>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_avz_fv5_qjb">
+    <title>Making line calls</title>
+    <shortdesc>How does one call an out in pickleball, and when?</shortdesc>
+    <body>
+        <p><i>Line calls</i> determine whether the ball is in or out of bounds.</p>
+        <p>When a pickleball bounces, only a small fraction of its surface area makes contact with
+            the ground. As such, line calls in pickleball must be incredibly precise.</p>
+        <p>Our club standard is that unless the ball is blatantly out of bounds, at least two
+            players must declare the ball out, within a reasonable amount of time, for the line call
+            to result in a fault.</p>
+        <p>
+            <ul id="ul_cvg_mv5_qjb">
+                <li>If the ball lands on a line, it's in.</li>
+                <li>If the ball lands in the kitchen on the serve, even if on the correct side of
+                    the court, it's a fault.</li>
+                <li>If the ball hits the kitchen line on the serve, it's out and a service
+                    fault.</li>
+                <li>If you are otherwise in doubt, it's in.</li>
+            </ul>
+        </p>
+    </body>
+</topic>

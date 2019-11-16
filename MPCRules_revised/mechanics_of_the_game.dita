@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_adl_csl_sjb">
+    <title>Basic mechanics</title>
+    <shortdesc>Like most racquet sports, pickleball is all about using your paddle to keep the ball
+        moving back and forth in a controlled sequence.</shortdesc>
+    <conbody>
+        <p>The ball can only bounce once on each side of the court before being <i>returned</i>, or
+            sent to your opponent's side. Under certain circumstances, you can also return the ball
+            before it bounces on your side of the court. This is called a <i>volley</i>.</p>
+        <p>When a player breaks the sequence, such as by hitting the ball into the net, letting it
+            bounce twice in a row, or sending it out of bounds, they have committed a <i>fault</i>
+            (sometimes called an <i>error</i>.)</p>
+        <p>The time from when the ball is <i>served</i> (set in motion) to the time a fault is
+            committed is called a <i>rally</i>. If you fault, either the other team will gain points
+            or you/your team will lose the opportunity to serve.</p>
+    </conbody>
+</concept>

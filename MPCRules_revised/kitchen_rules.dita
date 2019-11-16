@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Kitchen rules</title>
+    <shortdesc>Pickleball's rules against close volleys are among the most numerous of any racquet
+        sport.</shortdesc>
+    <conbody>
+        <p>The <i>kitchen</i> is sometimes called the <i>non-volley zone.</i> It is the space within
+            7 feet on both sides of the net.</p>
+        <p><b>You cannot volley while standing in the kitchen for any reason.</b></p>
+        <p>USAPA, the governing body of American pickleball, keeps an exhaustive list of what does
+            and does not constitute a kitchen fault. For sake of simplicity, we boil them down to
+            five rules.</p>
+        <p><b>A kitchen fault IS committed when:</b></p>
+        <p>
+            <ol id="ol_ow2_bhm_sjb">
+                <li>the volleying player has even one foot in the kitchen and/or on the kitchen
+                    line.</li>
+                <li>momentum carries the volleying player, or anything they are wearing/carrying,
+                    into the kitchen.</li>
+                <li>a player touches the kitchen right after volleying, even if the ball is declared
+                    dead beforehand.</li>
+            </ol>
+        </p>
+        <p><b>A kitchen fault IS NOT committed when:</b></p>
+        <p>
+            <ol id="ol_dcm_hhm_sjb">
+                <li>there is no volley. So long as the ball bounces before you hit it, you can stand
+                    in the kitchen at any time.</li>
+                <li>the ball is over the kitchen AND you are not standing in the kitchen. Remember
+                    that the kitchen is a 2D "rectangle," not a 3D "box."</li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

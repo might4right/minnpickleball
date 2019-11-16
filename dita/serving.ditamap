@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Serving</mainbooktitle>
+    </booktitle>
+    <chapter href="Serving%20introduction.dita"/>
+    <chapter href="Singles%20serving%20sequence.dita"/>
+    <chapter href="Doubles%20serving%20sequence.dita"/>
+    <chapter href="Serving%20to%20start%20doubles.dita"/>
+</bookmap>

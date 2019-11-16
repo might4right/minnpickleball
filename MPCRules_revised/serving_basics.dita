@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>How to serve</title>
+    <shortdesc>Regardless of the kind of pickleball you are playing, there are a few standard
+        serving rules.</shortdesc>
+    <taskbody>
+        <context>
+            <p>All serves must be underhand, and from behind your side's baseline with at least one
+                foot. The baseline marks the very back of the court.</p>
+            <p>Serves must be cross-court diagonally. This means that they must land within the
+                service court at the cater-corner of your own.</p>
+            <p>The baseline, sidelines, and center line are considered in. The kitchen line is
+                considered out.</p>
+            <p>You only have one attempt per rally to make a successful serve, unless there is a
+                    <b>let</b>. A let is when the ball touches the net on the serve and still lands
+                in the correct service court. If you let, you must try again.</p>
+            <p><b>There are many different methods of serving, but this is the best one for
+                    beginners.</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Determine your place in the serving sequence, then announce the current score
+                    of the game. See "The singles serving sequence," "The doubles serving sequence,"
+                    and "Scoring basics" for more details.</cmd>
+            </step>
+            <step>
+                <cmd>Point your entire body in the direction you need to serve. Step slightly
+                    forward with your left foot. This will set you up for a driving "pivot" motion
+                    that will add depth to your serve.</cmd>
+            </step>
+            <step>
+                <cmd>With your left hand, hold the ball in front of your paddle. Hold the paddle so
+                    the handle is pointing toward your upper body (usually this is a 10:00
+                    position.)</cmd>
+            </step>
+            <step>
+                <cmd>Let go of the ball with your left hand. At the same time, pivot with your right
+                    foot and drive the paddle forward, keeping your wrist straight.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

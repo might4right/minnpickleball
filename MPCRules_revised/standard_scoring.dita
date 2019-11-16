@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="standard_scoring">
+    <title>Traditional scoring</title>
+    <shortdesc>The traditional mode of pickleball scoring is designed to fit with the flow of the
+        game.</shortdesc>
+    <conbody>
+        <p>A typical pickleball game is played to 11 points and won by two points. Overtime starts
+            when the score reaches 10-10. It is played by the same rules as normal time.</p>
+        <p>Important to pickleball is that <b>only the serving team can score points.</b></p>
+        <p>Scores are announced before each serve as follows.</p>
+        <p>
+            <ul id="ul_k1z_zjm_sjb">
+                <li>First, announce the server/serving team's score.</li>
+                <li>Next, announce the receiver/receiving team's score.</li>
+                <li>If you are playing doubles, a third number is included representing which
+                    teammate is serving. It can be 1 or 2. Refer to <xref
+                        href="Doubles%20serving%20sequence.dita"/> for more information.</li>
+                <li>Remember that the very first serve of a doubles game is always scored 0-0-2. "2"
+                    in this case represents the player in the right service court.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

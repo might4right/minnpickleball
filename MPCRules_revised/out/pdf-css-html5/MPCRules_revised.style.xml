@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop"
+    xmlns:css="http://www.w3.org/1998/CSS" xmlns:ditaarch="ditaarch" xmlns:nd="nd">
+    <css:pages>
+        <css:page>
+            <css:footnote>
+                <css:property name="border-top-style" value="solid"/>
+                <css:property name="border-top-color" value="black"/>
+                <css:property name="border-top-width" value="thin"/>
+                <css:property name="padding-top" value="8pt"/>
+            </css:footnote>
+        </css:page>
+        <css:page>
+            <css:property name="padding-top" value="0.2em"/>
+            <css:property name="padding-bottom" value="0.2em"/>
+            <css:property name="width" value="8.5in"/>
+            <css:property name="height" value="11.0in"/>
+            <css:property name="margin-top" value="1in"/>
+            <css:property name="margin-right" value="1in"/>
+            <css:property name="margin-left" value="1in"/>
+            <css:property name="margin-bottom" value="1in"/>
+        </css:page>
+        <css:page>
+            <css:property name="font-size" value="8pt"/>
+        </css:page>
+        <css:page pseudo="left ">
+            <css:top-left>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:string name="parttitle" position="first"/>
+                    <css:string name="chaptertitle" position="first"/>
+                    <css:string name="sectiontitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+            </css:top-left>
+        </css:page>
+        <css:page pseudo="right ">
+            <css:top-right>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:string name="parttitle" position="first"/>
+                    <css:string name="chaptertitle" position="first"/>
+                    <css:string name="sectiontitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+            </css:top-right>
+        </css:page>
+        <css:page pseudo="blank ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+        <css:page name="front-page">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="table-of-contents">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+        </css:page>
+        <css:page name="index">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content">
+                    <css:counter format="lower-alpha" name="page"/>
+                </css:property>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="index">
+            <css:property name="column-count" value="2"/>
+            <css:property name="column-fill" value="auto"/>
+        </css:page>
+        <css:page name="chapter"/>
+        <css:page name="matter-page">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="portrait-page">
+            <css:property name="orientation" value="portrait"/>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="left ">
+            <css:top-left>
+                <css:property name="content">
+                    <css:string name="toc-header" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="lower-roman" name="page"/>
+                </css:property>
+            </css:top-left>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="right ">
+            <css:top-right>
+                <css:property name="content">
+                    <css:string name="toc-header" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="lower-roman" name="page"/>
+                </css:property>
+            </css:top-right>
+        </css:page>
+        <css:page name="landscape-page" pseudo="right ">
+            <css:property name="orientation" value="landscape"/>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:right-bottom>
+                <css:property name="content">
+                    <css:reference-orientation-container-pmb reference-orientation="270">
+                        <css:string name="maptitle" position="first"/>
+                        <css:string name="parttitle" position="first"/>
+                        <css:string name="chaptertitle" position="first"/>
+                        <css:string name="sectiontitle" position="first"/>
+                        <css:text> | </css:text>
+                        <css:counter format="decimal" name="page"/>
+                    </css:reference-orientation-container-pmb>
+                </css:property>
+                <css:property name="vertical-align" value="middle"/>
+                <css:property name="text-align" value="right"/>
+            </css:right-bottom>
+        </css:page>
+        <css:page name="landscape-page" pseudo="left ">
+            <css:property name="orientation" value="landscape"/>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:right-top>
+                <css:property name="content">
+                    <css:reference-orientation-container-pmb reference-orientation="270">
+                        <css:string name="maptitle" position="first"/>
+                        <css:string name="parttitle" position="first"/>
+                        <css:string name="chaptertitle" position="first"/>
+                        <css:string name="sectiontitle" position="first"/>
+                        <css:text> | </css:text>
+                        <css:counter format="decimal" name="page"/>
+                    </css:reference-orientation-container-pmb>
+                </css:property>
+                <css:property name="vertical-align" value="middle"/>
+                <css:property name="text-align" value="left"/>
+            </css:right-top>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="first left ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="first right ">
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+        <css:page name="chapter" pseudo="first left ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+        </css:page>
+        <css:page name="chapter" pseudo="first right ">
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+    </css:pages>
+    <css:page-sequence initial-page-number="1" page="front-page">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/MPCRules_revised/MPCRules_revised.ditamap">
+            <head css:border-bottom-color="white" css:border-bottom-style="solid"
+                css:border-bottom-width="1pt" css:border-left-color="white"
+                css:border-left-style="solid" css:border-left-width="1pt"
+                css:border-right-color="white" css:border-right-style="solid"
+                css:border-right-width="1pt" css:border-top-color="white"
+                css:border-top-style="solid" css:border-top-width="1pt" css:display="none"
+                css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em"
+                css:padding-top="1em">
+                <meta charset="UTF-8" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px"/>
+                <meta content="(C) Copyright 2019" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+                <meta content="(C) Copyright 2019" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px"
+                    name="DC.rights.owner"/>
+                <meta content="map" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+                <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+                <meta content="en" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css"
+                    rel="stylesheet" type="text/css"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css"
+                    rel="stylesheet" type="text/css"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css"
+                    rel="stylesheet" type="text/css"/>
+                <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid"
+                    css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none"
+                    css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">
+                    <css:oxy-pdf-meta-title>
+                        <css:content source="text"/>
+                    </css:oxy-pdf-meta-title>
+                </title>
+            </head>
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <css:string-set name="toc-header">
+                                    <css:text>Contents</css:text>
+                                </css:string-set>
+                                <div class="- front-page/front-page front-page" css:display="block">
+                                    <div class="- front-page/front-page-title front-page-title"
+                                        css:display="block"
+                                        css:font-family="Arial, helvetica, sans-serif"
+                                        css:font-size="2em" css:font-weight="bold"
+                                        css:margin-top="3in" css:text-align="center">
+                                        <div class="- topic/title title" css:bookmark-level="1"
+                                            css:display="block" css:page-break-after="avoid"
+                                                ><css:string-set name="maptitle"><css:content
+                                                  source="text"
+                                                  /></css:string-set><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label><css:oxy-pdf-meta-title><css:content
+                                                  source="text"/></css:oxy-pdf-meta-title>Rulebook
+                                            of the Minnesota Pickleball Club</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence page="table-of-contents">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/MPCRules_revised/MPCRules_revised.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <div class="- toc/toc toc" css:display="block">
+                                    <div class="- toc/title title" css:bookmark-level="1"
+                                        css:display="block" css:font-size="2em"
+                                        css:margin-bottom="1em" empty="true">
+                                        <css:before css:display="inline">
+                                            <css:text>Contents</css:text>
+                                        </css:before>
+                                        <css:bookmark-label>
+                                            <css:content source="before"/>
+                                        </css:bookmark-label>
+                                    </div>
+                                    <div class="- topic/title title" css:display="none"
+                                        css:page-break-after="avoid">Rulebook of the Minnesota
+                                        Pickleball Club</div>
+                                    <div
+                                        class="+ map/topicref mapgroup-d/topichead topicref topichead"
+                                        css:display="block" css:font-weight="bold"
+                                        css:margin-bottom="0.5em" css:margin-left="0"
+                                        css:margin-top="0.5em" is-chapter="true"
+                                        navtitle="Mechanics and serving">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0">
+                                            <css:before css:display="inline"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="block" css:link="#d7e14"
+                                                css:text-align-last="justify" href="#d7e14"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#d7e14"><css:text>Chapter
+                                                  </css:text><css:counter name="toc-chapter"
+                                                  value="1"/><css:text>.
+                                                </css:text></css:before>Mechanics and
+                                                  serving<css:after css:display="inline"
+                                                  css:link="#d7e14"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="d7e14"
+                                                  /></css:after></div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_1" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="concept_adl_csl_sjb">
+                                                <css:before css:display="inline"/>
+                                                <div appid="concept_adl_csl_sjb"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_1"
+                                                  css:text-align-last="justify" href="#unique_1"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_1"/>Basic mechanics<css:after
+                                                  css:display="inline" css:link="#unique_1"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_1"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Like most racquet sports,
+                                                  pickleball is all about using your paddle to keep
+                                                  the ball moving back and forth in a controlled
+                                                  sequence.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_2" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_2"
+                                                  css:text-align-last="justify" href="#unique_2"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_2"/>How to serve<css:after
+                                                  css:display="inline" css:link="#unique_2"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_2"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Regardless of the kind of
+                                                  pickleball you are playing, there are a few
+                                                  standard serving rules.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_3" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_3"
+                                                  css:text-align-last="justify" href="#unique_3"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_3"/>Flow of a singles
+                                                  game<css:after css:display="inline"
+                                                  css:link="#unique_3"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_3"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">The singles serving sequence is
+                                                  very much like other racquet sports.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_4" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_4"
+                                                  css:text-align-last="justify" href="#unique_4"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_4"/>Flow of a doubles
+                                                  game<css:after css:display="inline"
+                                                  css:link="#unique_4"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_4"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">In doubles, the flow of the
+                                                  game is fundamental to scoring. A strict serving
+                                                  sequence ensures each teammate has the opportunity
+                                                  to use both service courts.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="+ map/topicref mapgroup-d/topichead topicref topichead"
+                                        css:display="block" css:font-weight="bold"
+                                        css:margin-bottom="0.5em" css:margin-left="0"
+                                        css:margin-top="0.5em" is-chapter="true"
+                                        navtitle="Faults and scoring">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0">
+                                            <css:before css:display="inline"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="block" css:link="#d7e60"
+                                                css:text-align-last="justify" href="#d7e60"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#d7e60"><css:text>Chapter
+                                                  </css:text><css:counter name="toc-chapter"
+                                                  value="2"/><css:text>.
+                                                </css:text></css:before>Faults and scoring<css:after
+                                                  css:display="inline" css:link="#d7e60"><css:leader
+                                                  pattern="."/><css:target-counter
+                                                  url-fragment="d7e60"/></css:after></div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_6" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_6"
+                                                  css:text-align-last="justify" href="#unique_6"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_6"/>The two-bounce
+                                                  rule<css:after css:display="inline"
+                                                  css:link="#unique_6"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_6"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">A large difference between
+                                                  pickleball and other racquet sports lies in just
+                                                  two simple bounces.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_7" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_7"
+                                                  css:text-align-last="justify" href="#unique_7"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_7"/>Kitchen rules<css:after
+                                                  css:display="inline" css:link="#unique_7"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_7"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Pickleball's rules against
+                                                  close volleys are among the most numerous of any
+                                                  racquet sport.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_8" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="Untitled">
+                                                <css:before css:display="inline"/>
+                                                <div appid="Untitled"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_8"
+                                                  css:text-align-last="justify" href="#unique_8"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_8"/>Making line calls<css:after
+                                                  css:display="inline" css:link="#unique_8"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_8"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">A few hard and fast rules can
+                                                  help determine if the ball is in or out.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_9" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="standard_scoring">
+                                                <css:before css:display="inline"/>
+                                                <div appid="standard_scoring"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_9"
+                                                  css:text-align-last="justify" href="#unique_9"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_9"/>Traditional
+                                                  scoring<css:after css:display="inline"
+                                                  css:link="#unique_9"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_9"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">The traditional mode of
+                                                  pickleball scoring is designed to fit with the
+                                                  flow of the game.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_10" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="rally_scoring">
+                                                <css:before css:display="inline"/>
+                                                <div appid="rally_scoring"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_10"
+                                                  css:text-align-last="justify" href="#unique_10"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_10"/>Rally scoring<css:after
+                                                  css:display="inline" css:link="#unique_10"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_10"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">If we're pressed on time, we
+                                                  may switch to rally scoring. Though this changes
+                                                  the flow of the game, it makes things faster and a
+                                                  bit more suspenseful.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence initial-page-number="1" page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/MPCRules_revised/MPCRules_revised.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <article aria-labelledby="ariaid-title1" break-before="true"
+                                    class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
+                                    css:counter-reset="page 1" css:display="block"
+                                    css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="d7e14"
+                                    is-chapter="true"
+                                    topicrefclass="+ map/topicref mapgroup-d/topichead ">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="block"
+                                        css:font-size="2em" css:margin-bottom="1em"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
+                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
+                                        id="ariaid-title1"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="1"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                                ><css:text>Chapter </css:text><css:counter
+                                                name="chapter" value="1"/><css:text>.
+                                            </css:text></css:before>Mechanics and serving</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title2"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_1" nd:nd-id="concept_adl_csl_sjb"
+                                        oid="concept_adl_csl_sjb" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title2"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Basic mechanics</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">Like most racquet sports,
+                                                pickleball is all about using your paddle to keep
+                                                the ball moving back and forth in a controlled
+                                                sequence.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The ball
+                                                can only bounce once on each side of the court
+                                                before being <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >returned</em>, or sent to your opponent's side.
+                                                Under certain circumstances, you can also return the
+                                                ball before it bounces on your side of the court.
+                                                This is called a <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >volley</em>.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">When a
+                                                player breaks the sequence, such as by hitting the
+                                                ball into the net, letting it bounce twice in a row,
+                                                or sending it out of bounds, they have committed a
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >fault</em> (sometimes called an <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >error</em>.)</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The time
+                                                from when the ball is <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >served</em> (set in motion) to the time a fault
+                                                is committed is called a <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >rally</em>. If you fault, either the other team
+                                                will gain points or you/your team will lose the
+                                                opportunity to serve.</p>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title3"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_2" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title3"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>How to serve</h2>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">Regardless of the kind of
+                                                pickleball you are playing, there are a few standard
+                                                serving rules.</p>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">All
+                                                  serves must be underhand, and from behind your
+                                                  side's baseline with at least one foot. The
+                                                  baseline marks the very back of the court.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Serves
+                                                  must be cross-court diagonally. This means that
+                                                  they must land within the service court at the
+                                                  cater-corner of your own.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  baseline, sidelines, and center line are
+                                                  considered in. The kitchen line is considered
+                                                  out.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  only have one attempt per rally to make a
+                                                  successful serve, unless there is a <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >let</strong>. A let is when the ball touches the
+                                                  net on the serve and still lands in the correct
+                                                  service court. If you let, you must try again.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">There
+                                                  are many different methods of serving, but this is
+                                                  the best one for beginners.</strong>
+                                                </p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Determine your place in the
+                                                  serving sequence, then announce the current score
+                                                  of the game. See "The singles serving sequence,"
+                                                  "The doubles serving sequence," and "Scoring
+                                                  basics" for more details.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Point your entire body in the
+                                                  direction you need to serve. Step slightly forward
+                                                  with your left foot. This will set you up for a
+                                                  driving "pivot" motion that will add depth to your
+                                                  serve.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">With your left hand, hold the
+                                                  ball in front of your paddle. Hold the paddle so
+                                                  the handle is pointing toward your upper body
+                                                  (usually this is a 10:00 position.)</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Let go of the ball with your
+                                                  left hand. At the same time, pivot with your right
+                                                  foot and drive the paddle forward, keeping your
+                                                  wrist straight.</span>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title4"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_3" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title4"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Flow of a singles game</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">The singles serving sequence
+                                                is very much like other racquet sports.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">
+                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">In
+                                                  singles, once you receive the ball, your first
+                                                  serve will always be from the right
+                                                  court.</strong>
+                                            </p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If you
+                                                  score a point, </strong>both you and your opponent
+                                                will switch to the other service court, and you will
+                                                be serving along the opposite diagonal.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If you
+                                                  fault,</strong> your opponent gets to serve from
+                                                their own right service court. When this happens, it
+                                                is called a <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >side-out.</em></p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                general rule of thumb for singles is that you will
+                                                serve from the right court when your score is even,
+                                                and from the left court when your score is odd.</p>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title5"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_4" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title5"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Flow of a doubles game</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">In doubles, the flow of the
+                                                game is fundamental to scoring. A strict serving
+                                                sequence ensures each teammate has the opportunity
+                                                to use both service courts.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Once a
+                                                team gains possession of the ball after a side-out,
+                                                the new serving teammates receive numbers based on
+                                                their court position. </p>
+                                            <div class="- topic/p p" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_4_Connect_42_ul_ygn_mxl_sjb"
+                                                  nd:nd-id="ul_ygn_mxl_sjb">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The player on the right
+                                                  service court immediately after the side-out is
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One.</em></li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The player on the left
+                                                  service court immediately after the side-out is
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two.</em></li>
+                                                </ul>
+                                            </div>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">To begin
+                                                the next rally, <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One</em> serves to the opposing team's right
+                                                court.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">When
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One's</em> team scores a point,</strong> the
+                                                serving teammates switch places with each other. <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One</em> must now send the ball to the opposing
+                                                team's left court. <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One</em> will continue to serve and switch places
+                                                until either they or their teammate fault.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One's</em> team faults,</strong>
+                                                <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One</em> will pass the serve to <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two</em>. The teammates do not switch places. </p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                sequence now proceeds to <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two</em>. They must serve from their current side
+                                                of the court.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">When
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two's</em> team scores a point,</strong> the
+                                                serving teammates switch places with each other as
+                                                before.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two's</em> team faults,</strong> it is a
+                                                side-out. The serve goes to the other team, and the
+                                                sequence repeats.</p>
+                                        </div>
+                                        <article aria-labelledby="ariaid-title6"
+                                            class="- topic/topic concept/concept topic concept nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_5" nd:nd-id="concept_mym_vyl_sjb"
+                                            oid="concept_mym_vyl_sjb">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title6"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>The exception: starting a
+                                                doubles game</h3>
+                                            <div class="- topic/body concept/conbody body conbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em">The only exception to the
+                                                  standard doubles flow is at the very start of the
+                                                  game.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">At the
+                                                  beginning of a doubles game, only the right-hand
+                                                  player on the serving team has the opportunity to
+                                                  serve. They are <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two</em>.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">If <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Two</em> faults, it is a side-out. The sequence
+                                                  proceeds as normal, with <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >One</em> on the other team receiving the
+                                                  ball.</p>
+                                            </div>
+                                        </article>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/rsb/Documents/GitHub/minnpickleball/MPCRules_revised/MPCRules_revised.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <article aria-labelledby="ariaid-title7" break-before="true"
+                                    class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
+                                    css:display="block" css:margin-top="1em"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e60" is-chapter="true"
+                                    topicrefclass="+ map/topicref mapgroup-d/topichead ">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="block"
+                                        css:font-size="2em" css:margin-bottom="1em"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
+                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
+                                        id="ariaid-title7"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="2"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                                ><css:text>Chapter </css:text><css:counter
+                                                name="chapter" value="2"/><css:text>.
+                                            </css:text></css:before>Faults and scoring</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title8"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_6" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title8"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>The two-bounce rule</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">A large difference between
+                                                pickleball and other racquet sports lies in just two
+                                                simple bounces.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">When the
+                                                ball is served, the receiving team must let it
+                                                bounce in their court before returning the
+                                                serve.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                serving team must then let the ball bounce in their
+                                                own court.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">
+                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Only
+                                                  after the ball has bounced once in each court is
+                                                  it legal to volley. Otherwise, it's a
+                                                  fault.</strong>
+                                            </p>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title9"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_7" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title9"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Kitchen rules</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">Pickleball's rules against
+                                                close volleys are among the most numerous of any
+                                                racquet sport.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >kitchen</em> is sometimes called the <em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >non-volley zone.</em> It is the space within 7
+                                                feet on both sides of the net.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">
+                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">You
+                                                  cannot volley while standing in the kitchen for
+                                                  any reason.</strong>
+                                            </p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">USAPA,
+                                                the governing body of American pickleball, keeps an
+                                                exhaustive list of what does and does not constitute
+                                                a kitchen fault. For sake of simplicity, we boil
+                                                them down to five rules.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">
+                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">A
+                                                  kitchen fault IS committed when:</strong>
+                                            </p>
+                                            <div class="- topic/p p" css:display="block">
+                                                <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_7_Connect_42_ol_ow2_bhm_sjb"
+                                                  nd:nd-id="ol_ow2_bhm_sjb">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">the volleying player has
+                                                  even one foot in the kitchen and/or on the kitchen
+                                                  line.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">momentum carries the
+                                                  volleying player, or anything they are
+                                                  wearing/carrying, into the kitchen.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">a player touches the kitchen
+                                                  right after volleying, even if the ball is
+                                                  declared dead beforehand.</li>
+                                                </ol>
+                                            </div>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">
+                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">A
+                                                  kitchen fault IS NOT committed when:</strong>
+                                            </p>
+                                            <div class="- topic/p p" css:display="block">
+                                                <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_7_Connect_42_ol_dcm_hhm_sjb"
+                                                  nd:nd-id="ol_dcm_hhm_sjb">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">there is no volley. So long
+                                                  as the ball bounces before you hit it, you can
+                                                  stand in the kitchen at any time.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">the ball is over the kitchen
+                                                  AND you are not standing in the kitchen. Remember
+                                                  that the kitchen is a 2D "rectangle," not a 3D
+                                                  "box."</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title10"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_8" nd:nd-id="Untitled" oid="Untitled"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title10"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Making line calls</h2>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">A few hard and fast rules can
+                                                help determine if the ball is in or out.</p>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"><em
+                                                  class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic">Line
+                                                  calls</em> are determinations regarding whether
+                                                  the ball is in bounds. A few hard and fast rules
+                                                  can help determine if the ball is in or out of
+                                                  bounds.</p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Keep
+                                                  your eye on the ball.</strong> When a pickleball
+                                                  bounces, only a small fraction of its surface area
+                                                  makes contact with the ground. As such, line
+                                                  calling requires a great degree of
+                                                  precision.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Consider the stage of the rally.</strong> If the
+                                                  ball hits the kitchen line on the serve, it is a
+                                                  service fault, even if the ball contacts the net
+                                                  before going over.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Consider the lines of the court.</strong> If the
+                                                  ball lands on an outside line, it is always
+                                                  considered in.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Consult other players, including the opposing
+                                                  team.</strong> A good standard is that at least
+                                                  two players must have seen where the ball landed
+                                                  within a reasonable amount of time for it to be
+                                                  considered out.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">What
+                                                  the opponent says usually goes.</strong> Out of
+                                                  fairness, if both teammates on the calling side
+                                                  are in doubt, the ball is considered in.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If
+                                                  everyone is in doubt, either redo the rally or
+                                                  call the ball in.</strong> Both of these options
+                                                  are ideal. The important thing is that you offer
+                                                  ample courtesy and the benefit of the doubt to
+                                                  your opponents.</span>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title11"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_9" nd:nd-id="standard_scoring"
+                                        oid="standard_scoring" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title11"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Traditional scoring</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">The traditional mode of
+                                                pickleball scoring is designed to fit with the flow
+                                                of the game.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">A
+                                                typical pickleball game is played to 11 points and
+                                                won by two points. Overtime starts when the score
+                                                reaches 10-10. It is played by the same rules as
+                                                normal time.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"
+                                                >Important to pickleball is that <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">only
+                                                  the serving team can score points.</strong></p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Scores
+                                                are announced before each serve as follows.</p>
+                                            <div class="- topic/p p" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_9_Connect_42_ul_k1z_zjm_sjb"
+                                                  nd:nd-id="ul_k1z_zjm_sjb">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">First, announce the
+                                                  server/serving team's score.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Next, announce the
+                                                  receiver/receiving team's score.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">If you are playing doubles,
+                                                  a third number is included representing which
+                                                  teammate is serving. It can be 1 or 2. Refer to <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline" css:link="#unique_4"
+                                                  css:text-decoration="underline" href="#unique_4"
+                                                  title="In doubles, the flow of the game is fundamental to scoring. A strict serving sequence ensures each teammate has the opportunity to use both service courts."
+                                                  type="concept">Flow of a doubles game<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="#unique_4"
+                                                  css:text-decoration="underline"><css:text> (on
+                                                  page </css:text><css:target-counter
+                                                  url-fragment="unique_4"
+                                                  /><css:text>)</css:text></css:after></a> for more
+                                                  information.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Remember that the very first
+                                                  serve of a doubles game is always scored 0-0-2.
+                                                  "2" in this case represents the player in the
+                                                  right service court.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title12"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_10" nd:nd-id="rally_scoring" oid="rally_scoring"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title12"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Rally scoring</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">If we're pressed on time, we
+                                                may switch to rally scoring. Though this changes the
+                                                flow of the game, it makes things faster and a bit
+                                                more suspenseful.</p>
+                                            <div class="- topic/p p" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_10_Connect_42_ul_gj2_fhr_sjb"
+                                                  nd:nd-id="ul_gj2_fhr_sjb">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Under rally scoring, any
+                                                  player/team can score points, regardless if they
+                                                  are serving or receiving.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">If the
+                                                  serving player/team scores a point,</strong> you
+                                                  will change positions as normal according ot the
+                                                  flow of the game. (See <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline" css:link="#unique_3"
+                                                  css:text-decoration="underline" href="#unique_3"
+                                                  title="The singles serving sequence is very much like other racquet sports."
+                                                  type="concept">Flow of a singles game<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="#unique_3"
+                                                  css:text-decoration="underline"><css:text> (on
+                                                  page </css:text><css:target-counter
+                                                  url-fragment="unique_3"
+                                                  /><css:text>)</css:text></css:after></a> or <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline" css:link="#unique_4"
+                                                  css:text-decoration="underline" href="#unique_4"
+                                                  title="In doubles, the flow of the game is fundamental to scoring. A strict serving sequence ensures each teammate has the opportunity to use both service courts."
+                                                  type="concept">Flow of a doubles game<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="#unique_4"
+                                                  css:text-decoration="underline"><css:text> (on
+                                                  page </css:text><css:target-counter
+                                                  url-fragment="unique_4"
+                                                  /><css:text>)</css:text></css:after></a>.)</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em"><strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">There
+                                                  is no second server in rally scoring.</strong> If
+                                                  you or your team loses a rally, you do not change
+                                                  sides and the other player/team gets the
+                                                  serve.)</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+</css:root>

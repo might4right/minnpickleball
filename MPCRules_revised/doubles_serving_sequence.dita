@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Flow of a doubles game</title>
+    <shortdesc>In doubles, the flow of the game is fundamental to scoring. A strict serving sequence
+        ensures each teammate has the opportunity to use both service courts.</shortdesc>
+    <conbody>
+        <p>Once a team gains possession of the ball after a side-out, the new serving teammates
+            receive numbers based on their court position. </p>
+        <p>
+            <ul id="ul_ygn_mxl_sjb">
+                <li>The player on the right service court immediately after the side-out is
+                        <i>One.</i></li>
+                <li>The player on the left service court immediately after the side-out is
+                        <i>Two.</i></li>
+            </ul>
+        </p>
+        <p>To begin the next rally, <i>One</i> serves to the opposing team's right court.</p>
+        <p><b>When <i>One's</i> team scores a point,</b> the serving teammates switch places with
+            each other. <i>One</i> must now send the ball to the opposing team's left court.
+                <i>One</i> will continue to serve and switch places until either they or their
+            teammate fault.</p>
+        <p><b>If <i>One's</i> team faults,</b>
+            <i>One</i> will pass the serve to <i>Two</i>. The teammates do not switch places. </p>
+        <p>The sequence now proceeds to <i>Two</i>. They must serve from their current side of the
+            court.</p>
+        <p><b>When <i>Two's</i> team scores a point,</b> the serving teammates switch places with
+            each other as before.</p>
+        <p><b>If <i>Two's</i> team faults,</b> it is a side-out. The serve goes to the other team,
+            and the sequence repeats.</p>
+    </conbody>
+    <concept id="concept_mym_vyl_sjb">
+        <title>The exception: starting a doubles game</title>
+        <shortdesc>The only exception to the standard doubles flow is at the very start of the
+            game.</shortdesc>
+        <conbody>
+            <p>At the beginning of a doubles game, only the right-hand player on the serving team
+                has the opportunity to serve. They are <i>Two</i>.</p>
+            <p>If <i>Two</i> faults, it is a side-out. The sequence proceeds as normal, with
+                    <i>One</i> on the other team receiving the ball.</p>
+        </conbody>
+    </concept>
+</concept>

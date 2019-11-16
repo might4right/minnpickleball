@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>MPC Standard Pickleball Rules</mainbooktitle>
+    </booktitle>
+    <chapter href="Basic%20mechanics.dita"/>
+    <chapter href="Serving%20introduction.dita"/>
+    <chapter href="Singles%20serving%20sequence.dita"/>
+    <chapter href="Doubles%20serving%20sequence.dita"/>
+    <chapter href="Serving%20to%20start%20doubles.dita"/>
+    <chapter href="The%20kitchen.dita"/>
+    <chapter href="Two-bounce%20rule.dita"/>
+    <chapter href="Line%20calls.dita"/>
+    <topichead navtitle="Scoring">
+        <chapter href="Standard%20scoring.dita"/>
+        <chapter href="Rally%20scoring.dita"/>
+    </topichead>
+</bookmap>

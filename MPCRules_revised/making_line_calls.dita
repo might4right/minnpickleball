@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Making line calls</title>
+    <shortdesc>A few hard and fast rules can help determine if the ball is in or out.</shortdesc>
+    <taskbody>
+        <context>
+            <p><i>Line calls</i> are determinations regarding whether the ball is in bounds. A few
+                hard and fast rules can help determine if the ball is in or out of bounds.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Keep your eye on the ball.</b> When a pickleball bounces, only a small
+                    fraction of its surface area makes contact with the ground. As such, line
+                    calling requires a great degree of precision.</cmd>
+            </step>
+            <step>
+                <cmd><b>Consider the stage of the rally.</b> If the ball hits the kitchen line on
+                    the serve, it is a service fault, even if the ball contacts the net before going
+                    over.</cmd>
+            </step>
+            <step>
+                <cmd><b>Consider the lines of the court.</b> If the ball lands on an outside line,
+                    it is always considered in.</cmd>
+            </step>
+            <step>
+                <cmd><b>Consult other players, including the opposing team.</b> A good standard is
+                    that at least two players must have seen where the ball landed within a
+                    reasonable amount of time for it to be considered out.</cmd>
+            </step>
+            <step>
+                <cmd><b>What the opponent says usually goes.</b> Out of fairness, if both teammates
+                    on the calling side are in doubt, the ball is considered in.</cmd>
+            </step>
+            <step>
+                <cmd><b>If everyone is in doubt, either redo the rally or call the ball in.</b> Both
+                    of these options are ideal. The important thing is that you offer ample courtesy
+                    and the benefit of the doubt to your opponents.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
