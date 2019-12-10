@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0%;
-	background-color: maroon;
+	background-color: transparent;
 	font-family: "Source Sans Pro"
 }
 
@@ -41,22 +41,19 @@ ul li a:hover {
 #welcomebox {
   background-color: #FFDE7A;
   padding: 12.5%;
-	color: white;
+	color: gold;
   text-align: left;
-  background-image: url(https://pbs.twimg.com/media/DxzlvDuWwAADkMm.jpg);
-	background-repeat: no-repeat
+  background-image: url(https://might4right.github.io/minnpickleball/homepagegif.gif);
+  background-size: cover;
+  background-repeat: no-repeat
 }
 
 #missionstate {
-    background-color: maroon;
+    background-color: goldenrod;
     background-image: url(C:\Users\rsb\Documents\GitHub\minnpickleball\homebackground.jpg);
-    color:gold;
+    color: maroon;
     padding: 2%;
     text-align: center;
-}
-
-missionstate p {
-	background-color: maroon;
 }
 
 #pioneers {
