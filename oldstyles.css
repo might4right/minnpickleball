@@ -19,13 +19,13 @@ wereglad {
   background-color: #FFDE7A;
   padding: 2%;
   text-align: center;
-background-image: url(C:\Users\rsb\Documents\GitHub\minnpickleball\homebackground.jpg);
+background-image: url(C:\Users\rsb\Documents\GitHub\minnpickleball\homepagegif.gif);
 }
 
 #missionstate {
-    background-color: maroon;
+    background-color: gold;
     background-image: url(C:\Users\rsb\Documents\GitHub\minnpickleball\homebackground.jpg);
-    color:gold;
+    color:maroon;
     padding: 2%;
     text-align: center;
 }
